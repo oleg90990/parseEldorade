@@ -1,2 +1,2 @@
-# parseEldorade
-mini php script for parse eldorede sales
+# run
+php index.php
