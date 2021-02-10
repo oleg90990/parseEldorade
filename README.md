@@ -1,2 +1,1 @@
-# run
 php index.php
